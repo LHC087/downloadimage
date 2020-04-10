@@ -39,9 +39,7 @@ export default {
       //   "http://wx2.sinaimg.cn/thumb150/0075osWcgy1ftgqyqdsr7j32c0340b2b.jpg"
       // ];
 
-      // let imgList=[
-      // "https://auto-publish-content.oss-cn-shenzhen.aliyuncs.com/image/d7e34500-0462-4985-9edf-ef79783bb1e5.png?Expires=1555400752&OSSAccessKeyId=LTAIsMr6kbkFx5fK&Signature=nlpS%2BA4TPZrJD%2FIIcshTtSAt3bc%3D",
-      // "https://auto-publish-content.oss-cn-shenzhen.aliyuncs.com/image/fa21c82f-f3a1-4add-93a1-4ea925171e25.png?Expires=1555400752&OSSAccessKeyId=LTAIsMr6kbkFx5fK&Signature=vafBqvCH6uA2%2Fnb%2FVv5VARXqXHA%3D",]
+     
 
       let arr = imgList;
       for (var i = 0; i < arr.length; i++) {
